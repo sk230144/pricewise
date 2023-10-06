@@ -5,6 +5,7 @@ Track and monitor eCommerce product prices in real-time with this Next.js 13 app
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Deployed Link](https://pricewise-7ikpsi2jj-js-mastery-pro.vercel.app/)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -12,6 +13,7 @@ Track and monitor eCommerce product prices in real-time with this Next.js 13 app
 - [Database](#database)
 - [Contributing](#contributing)
 - [License](#license)
+- 
 
 ## Features
 - Real-time price tracking for eCommerce products.
